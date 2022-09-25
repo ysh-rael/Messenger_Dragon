@@ -76,9 +76,9 @@ Enter your telegram, search for user @DragonMoonlightMessengerBot and start the 
  > Install Nativefier globally with ```npm install -g nativefier``` .  
  > Requirements:
  > * macOS 10.10+ / Windows / Linux </br>
- > * Node.js ≥ 12.9 and npm ≥ 6.9
+ > * Node.js ≥ 12.9 and npm ≥ 6.9 <br>
  > With nativefier properly installed, we will run the following in the terminal
- >		nativefier --name 'MessengerDragon' 'https://messenger-dragon.herokuapp.com/'
+ >		```nativefier --name 'MessengerDragon' 'https://messenger-dragon.herokuapp.com/'```
  > Check the home folder (main folder), a folder named "MessengerDragon" will be generated. Inside the folder look for the 'MessengerDragon' file and run it.
  
  
