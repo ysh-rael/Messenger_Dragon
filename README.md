@@ -94,22 +94,21 @@ Enter your telegram, search for user @DragonMoonlightMessengerBot and start the 
  The first item will be the name of your list, after adding it, the bot will send a message with that name. It will use this message to store its list. The message will be edited whenever a list item is added, deleted or edited. Thus preventing you from being annoyed with excessive notifications.
  
 
-
-[GIF]<br>
-
-	
-	
-	
-[ IMG ]<br>
-[ IMG ]<br>
-
-[ IMG ]<br>
-
-
-	
+<br>
  
  
 ## Features
+
+ * Chat connection via telegram app
+ * Security code
+ * Access via desktop app or browser
+ * Task persistence even after exiting the application/Browser.
+ * Easy security code change
+ * After connecting, it will not be necessary to have any application installed for it to work.
+ * Create, edit and remove tasks.
+ * Can be used on more than one device in sync, as long as you have the connection code.
+ * No personal data storage: Your list will be a message sent by the Bot to you, which it will read and handle.
+ * Available in Portuguese and English.
  
 
  
@@ -136,3 +135,4 @@ This Document is licensed with:<br>
 <br>
 Please follow github and join us!<br>
 Thanks to visiting me and good coding!
+
