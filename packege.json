@@ -1,0 +1,26 @@
+{
+  "name": "messenger-dragon",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Yshrael Pimentel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "telegraf": "^4.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-htmlmin": "4.0.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-uglifycss": "1.0.9"
+  }
+}
